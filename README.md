@@ -1,17 +1,23 @@
-### Hi there 👋 
+## Hello stranger 👋 
 
-<div   align="right">
+
+                                                                                                                                               
+                                                                                                                                              
+### About
+- **currently working** on Web Scraping & Data Management
+- **Learning** Never ends 👨‍💻
+- **Hobbies** Watching espionage TV Series & eating pizza
+- **💬 Ask me about** Anything
+- ⚡ Fun fact: ...
+                                                                                                                                                                      
+                                                                                                                                                                               
+<div   >
     <img   align="right" src="https://octodex.github.com/images/pythocat.png" width=250" height="250" />
 </div>
 
 <a  href="https://www.linkedin.com/in/guillermovillois/" >
                   <img  align="right" alt="LinkedIN" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" width=50" height="50">
-         </a>
-                                                                                                                                               
-                                                                                                                                                                    
-                                                                                                                                                                      
-                                                                                                                                                                               
-                              
+         </a>                           
 <!--
 **guillermovillois/guillermovillois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
