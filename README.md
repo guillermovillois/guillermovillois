@@ -8,11 +8,10 @@
 - **Learning** Never ends 👨‍💻
 - **Hobbies** Watching espionage TV Series & eating pizza
 - **💬 Ask me about** Anything
-- ⚡ Fun fact: ...
                                                                                                                                                                       
                                                                                                                                                                                
 <div   >
-    <img   align="right" src="https://octodex.github.com/images/pythocat.png" width=250" height="250" />
+    <img   align="left" src="https://octodex.github.com/images/pythocat.png" width=250" height="250" />
 </div>
 
 <a  href="https://www.linkedin.com/in/guillermovillois/" >
