@@ -6,7 +6,7 @@
 ### About
 - **currently working** on Web Scraping & Data Management
 - **Learning** Never ends 👨‍💻
-- **Hobbies** Watching espionage TV Series & eating pizza
+- **Hobbies** Watching espionage :tv: Series & eating :pizza:
 - **💬 Ask me about** Anything
                                                                                                                                                                       
                                                                                                                                                                                
