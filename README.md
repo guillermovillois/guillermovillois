@@ -1,8 +1,11 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/guillermovillois/">
-         <img alt="LinkedIN" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg"
-         width=150" height="70">
-      </a>
+### Hi there 👋 
+
+<a  href="https://www.linkedin.com/in/guillermovillois/" >
+                  <img  align="right" alt="LinkedIN" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" width=50" height="50">
+         </a>
+                     
+                              
+                              
 <!--
 **guillermovillois/guillermovillois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
