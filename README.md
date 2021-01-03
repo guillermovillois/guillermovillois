@@ -1,5 +1,5 @@
 ## Hello stranger 👋 
-- **currently working** on Web Scraping :bookmark_tabs: & Data Management :open_file_folder:
+- **currently working** on Web Scraping :bookmark_tabs:Data Mining &  Analytics :open_file_folder:
 - **Learning** never ends 👨‍💻
 - **Hobbies** watching espionage TV Series :tv: & eating :pizza:
 - **💬 Ask me about** Anything
